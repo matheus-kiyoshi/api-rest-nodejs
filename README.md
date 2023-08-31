@@ -1,0 +1,1 @@
+API REST de CRUD básico, usando MySQL e NodeJs com Express.js, tabela users com apenas os atributos ID e Name. Projeto arquitetado usando o padrão MVC
